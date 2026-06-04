@@ -11,7 +11,7 @@
 window.OREUM_HW_CONFIG = {
 
   // 숙제 전용 Google Apps Script 웹앱 URL (배포 후 붙여넣기)
-  SCRIPT_URL: "PASTE_YOUR_OREUM_HOMEWORK_APPS_SCRIPT_URL",
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbw8XR7f6ol-hOTWoSNi7ZabWGmI7JJdXfbpJ5ENeCQIOTvIV-w783vC6LQFZ0zQoiubLA/exec",
 
   // 강사 대시보드 비밀번호 — 본인만 알기 (필요 시 수정)
   DASH_PASSWORD: "74527697",
